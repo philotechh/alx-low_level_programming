@@ -1,10 +1,12 @@
-#include <stdio.h>
+#include <stdlib.h>
 #include "main.h"
 /**
- * main - Entry point
- * Return: Always 0.
+ * _isupper - funcion that checks for uppercase character
+ * @c: character to be checked
+ * Return: 0.
  */
-int main(void)
+
+int _isupper(int c)
 {
 	char ch = 'A';
 

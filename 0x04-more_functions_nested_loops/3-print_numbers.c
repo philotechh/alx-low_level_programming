@@ -1,4 +1,5 @@
 #include "main.h"
+<<<<<<< HEAD
 /**
  * main - print number 0-9
  *
@@ -6,6 +7,18 @@
  */
 
 void print_numbers(void);
+=======
+
+
+ /**
+ *
+ * main - Prints _putchar as a message.
+ *
+ * Return: Always 0 (Success)
+ */
+
+int main(void)
+>>>>>>> 10ef0c367368044f6a441cb653706b85be855a71
 
 {
 

@@ -8,9 +8,9 @@
 
 int _isupper(int c)
 {
-	char ch = 'A';
+	char c = 'A';
 
-	if (isupper(ch))
+	if (isupper(c))
 
 		printf("%d\n");
 	else

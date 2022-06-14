@@ -1,18 +1,14 @@
 #include "main.h"
 /**
- * main- function that takes a pointer to an int
+ * reset_to_98 - takes a pointer to a parameter and updates its value.
  *
- * Return:(void)
+ * @n: input integer. 
  *
+ * Return: no return.
  */
+void reset_to_98(int *n)
 
-void reset_to_98(int *n);
 {
-	int p;
-
-	int *n;
-
-	p = 98;
-
-	n = &p
+	*n = 98;
 }
+

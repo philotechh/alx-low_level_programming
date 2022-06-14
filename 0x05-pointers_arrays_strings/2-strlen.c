@@ -32,3 +32,4 @@ int _atoi(char *s)
 		m /= 10;
 	}
 	return (oi * pn);
+}
